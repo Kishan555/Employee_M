@@ -64,6 +64,16 @@
 			<scope>runtime</scope>
 		</dependency>
 
+		<!--selenium -->
+		<dependency>
+			<groupId>org.seleniumhq.selenium</groupId>
+			<artifactId>selenium-java</artifactId>
+			<version>4.1.0</version>
+		</dependency>
+		
+		
+		
+
 	</dependencies>
 
 	<build>

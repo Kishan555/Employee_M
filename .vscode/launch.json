@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SeleniumEdgeExample",
+            "request": "launch",
+            "mainClass": "com.example.ems.SeleniumEdgeExample",
+            "projectName": "ems"
+        },
+        {
+            "type": "java",
             "name": "Spring Boot-EmsApplication<ems>",
             "request": "launch",
             "cwd": "${workspaceFolder}",
